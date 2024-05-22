@@ -1,101 +1,101 @@
 purchase_date,customer_id,product_id,product_description,category,price,ratings,page_views,time_spent,age,gender
-2023-01-05,1,BEA002,LuxeLips Hydrating Lip Balm,Beauty,436,4.9,44,191,18,male
-2023-01-12,2,CLO005,Urban Style Denim Jacket,Clothing,912,4.5,50,202,26,male
-2023-01-30,3,CLO002,Athleisure Performance Leggings,Clothing,751,4.5,34,148,31,male
-2023-01-04,4,CLO003,Elegance Women's Evening Dress,Clothing,926,4.8,45,209,21,male
-2023-01-20,5,ELE002,PowerPulse Wireless Earbuds,Electronics,303,4.5,34,104,27,female
-2023-01-19,6,BEA004,SilkTouch Hair Straightener,Beauty,397,4.8,38,168,33,female
-2023-01-16,7,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,112,4.1,19,226,20,female
-2023-01-20,8,BEA004,SilkTouch Hair Straightener,Beauty,697,3.8,32,206,18,male
-2023-01-15,9,ELE004,SmartTech 4K Ultra HD TV,Electronics,345,4.2,35,151,35,male
-2023-01-02,10,ELE004,SmartTech 4K Ultra HD TV,Electronics,804,4.7,33,115,35,female
-2023-01-16,11,BEA001,RadiantSkin Anti-Aging Cream,Beauty,753,4.1,43,149,31,female
-2023-01-07,12,ELE003,RapidCharge Portable Power Bank,Electronics,484,4.8,26,206,42,female
-2023-01-07,13,BEA004,SilkTouch Hair Straightener,Beauty,248,4.5,15,116,45,female
-2023-01-07,14,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,673,3.5,34,61,44,male
-2023-01-18,15,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,265,4.1,24,117,32,female
-2023-01-16,16,CLO003,Elegance Women's Evening Dress,Clothing,749,3.8,44,65,24,male
-2023-01-19,17,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,939,3.7,11,120,44,female
-2023-01-10,18,CLO001,Classic Comfort Cotton T-Shirt,Clothing,620,4.2,12,95,24,male
-2023-01-10,19,ELE005,EcoCharge Solar Charger,Electronics,746,4.6,49,76,43,female
-2023-01-30,20,CLO001,Classic Comfort Cotton T-Shirt,Clothing,667,4.0,14,209,32,male
-2023-01-07,21,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,701,3.8,23,143,32,male
-2023-01-20,22,HOM002,Gourmet Chef Stainless Steel Cookware Set,Home & Kitchen,96,4.5,27,114,21,male
-2023-01-05,23,ELE003,RapidCharge Portable Power Bank,Electronics,275,3.8,50,229,48,female
-2023-01-29,24,HOM002,Gourmet Chef Stainless Steel Cookware Set,Home & Kitchen,957,3.5,29,171,29,male
-2023-01-08,25,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,992,4.2,42,177,45,male
-2023-01-22,26,ELE004,SmartTech 4K Ultra HD TV,Electronics,294,4.3,39,69,42,male
-2023-01-19,27,ELE002,PowerPulse Wireless Earbuds,Electronics,986,4.1,14,204,32,female
-2023-01-09,28,ELE001,SonicBlast Bluetooth Speaker,Electronics,334,3.7,47,138,43,female
-2023-01-06,29,ELE005,EcoCharge Solar Charger,Electronics,385,3.7,34,115,37,female
-2023-01-07,30,CLO001,Classic Comfort Cotton T-Shirt,Clothing,821,4.3,50,240,35,female
-2023-01-12,31,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,207,4.0,25,125,21,male
-2023-01-01,32,ELE004,SmartTech 4K Ultra HD TV,Electronics,528,4.6,48,130,47,female
-2023-01-23,33,ELE003,RapidCharge Portable Power Bank,Electronics,907,4.7,10,212,39,male
-2023-01-30,34,BEA001,RadiantSkin Anti-Aging Cream,Beauty,208,4.0,11,164,28,male
-2023-01-22,35,CLO004,Summer Breeze Floral Skirt,Clothing,300,4.9,40,225,39,male
-2023-01-20,36,ELE001,SonicBlast Bluetooth Speaker,Electronics,723,4.0,34,128,45,male
-2023-01-11,37,ELE004,SmartTech 4K Ultra HD TV,Electronics,313,4.9,36,240,30,male
-2023-01-31,38,ELE005,EcoCharge Solar Charger,Electronics,134,4.4,10,79,21,male
-2023-01-08,39,HOM005,Deluxe Kitchen Mixer Pro,Home & Kitchen,564,4.1,11,125,33,female
-2023-01-06,40,CLO003,Elegance Women's Evening Dress,Clothing,787,4.1,13,190,46,male
-2023-01-03,41,CLO001,Classic Comfort Cotton T-Shirt,Clothing,428,4.7,31,112,43,male
-2023-01-01,42,ELE001,SonicBlast Bluetooth Speaker,Electronics,788,4.8,29,89,32,female
-2023-01-29,43,CLO005,Urban Style Denim Jacket,Clothing,453,4.7,10,128,45,male
-2023-01-10,44,ELE003,RapidCharge Portable Power Bank,Electronics,191,4.8,12,106,29,male
-2023-01-31,45,ELE003,RapidCharge Portable Power Bank,Electronics,470,5.0,13,150,20,male
-2023-01-02,46,BEA003,GlowBeauty Vitamin C Serum,Beauty,49,3.5,22,121,48,female
-2023-01-04,47,ELE004,SmartTech 4K Ultra HD TV,Electronics,793,4.4,13,78,48,female
-2023-01-29,48,CLO002,Athleisure Performance Leggings,Clothing,226,4.4,20,223,34,male
-2023-01-11,49,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,962,3.7,28,86,43,male
-2023-01-31,50,BEA001,RadiantSkin Anti-Aging Cream,Beauty,985,4.9,50,119,30,male
-2023-01-13,51,BEA001,RadiantSkin Anti-Aging Cream,Beauty,841,4.1,48,180,42,female
-2023-01-22,52,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,880,4.9,48,99,50,male
-2023-01-18,53,CLO005,Urban Style Denim Jacket,Clothing,626,4.8,26,158,43,male
-2023-01-05,54,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,472,4.7,30,140,34,female
-2023-01-23,55,BEA001,RadiantSkin Anti-Aging Cream,Beauty,180,4.9,18,155,40,female
-2023-01-26,56,ELE003,RapidCharge Portable Power Bank,Electronics,72,3.7,33,163,30,male
-2023-01-09,57,HOM005,Deluxe Kitchen Mixer Pro,Home & Kitchen,532,3.8,47,125,33,female
-2023-01-28,58,CLO005,Urban Style Denim Jacket,Clothing,219,3.6,19,220,48,male
-2023-01-10,59,CLO003,Elegance Women's Evening Dress,Clothing,596,4.1,43,150,29,male
-2023-01-27,60,ELE004,SmartTech 4K Ultra HD TV,Electronics,299,4.0,36,207,37,male
-2023-01-17,61,ELE001,SonicBlast Bluetooth Speaker,Electronics,23,3.9,16,104,29,female
-2023-01-05,62,BEA003,GlowBeauty Vitamin C Serum,Beauty,243,4.8,10,167,43,male
-2023-01-25,63,ELE003,RapidCharge Portable Power Bank,Electronics,458,4.6,24,203,32,male
-2023-01-13,64,ELE004,SmartTech 4K Ultra HD TV,Electronics,998,4.8,21,192,42,male
-2023-01-25,65,ELE005,EcoCharge Solar Charger,Electronics,773,4.3,31,164,43,female
-2023-01-07,66,HOM002,Gourmet Chef Stainless Steel Cookware Set,Home & Kitchen,348,4.8,33,168,20,female
-2023-01-27,67,CLO003,Elegance Women's Evening Dress,Clothing,124,4.4,47,179,24,male
-2023-01-09,68,CLO001,Classic Comfort Cotton T-Shirt,Clothing,334,4.8,24,133,33,male
-2023-01-23,69,BEA002,LuxeLips Hydrating Lip Balm,Beauty,662,4.1,33,223,47,male
-2023-01-02,70,CLO001,Classic Comfort Cotton T-Shirt,Clothing,904,4.9,24,166,23,female
-2023-01-10,71,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,854,3.9,26,205,48,male
-2023-01-09,72,CLO002,Athleisure Performance Leggings,Clothing,884,4.0,26,168,29,female
-2023-01-09,73,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,720,4.1,12,115,37,female
-2023-01-12,74,HOM005,Deluxe Kitchen Mixer Pro,Home & Kitchen,812,5.0,34,181,23,female
-2023-01-08,75,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,897,4.0,38,91,45,female
-2023-01-17,76,CLO004,Summer Breeze Floral Skirt,Clothing,904,3.8,26,76,39,female
-2023-01-25,77,ELE001,SonicBlast Bluetooth Speaker,Electronics,601,4.4,39,60,42,female
-2023-01-05,78,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,216,4.1,36,65,32,female
-2023-01-24,79,ELE004,SmartTech 4K Ultra HD TV,Electronics,235,4.5,23,133,46,female
-2023-01-29,80,ELE002,PowerPulse Wireless Earbuds,Electronics,695,4.5,18,161,18,male
-2023-01-18,81,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,752,4.9,38,168,48,female
-2023-01-06,82,CLO005,Urban Style Denim Jacket,Clothing,749,4.4,45,151,37,female
-2023-01-28,83,CLO003,Elegance Women's Evening Dress,Clothing,376,4.6,21,154,29,female
-2023-01-09,84,BEA003,GlowBeauty Vitamin C Serum,Beauty,362,4.1,48,65,18,female
-2023-01-17,85,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,749,4.5,16,235,43,female
-2023-01-15,86,HOM005,Deluxe Kitchen Mixer Pro,Home & Kitchen,116,3.9,28,201,47,female
-2023-01-27,87,ELE004,SmartTech 4K Ultra HD TV,Electronics,276,4.8,39,135,47,male
-2023-01-11,88,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,596,3.9,16,194,36,male
-2023-01-31,89,BEA003,GlowBeauty Vitamin C Serum,Beauty,97,4.6,42,168,47,male
-2023-01-19,90,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,805,4.0,36,91,21,male
-2023-01-14,91,ELE005,EcoCharge Solar Charger,Electronics,165,4.6,37,205,44,female
-2023-01-04,92,ELE001,SonicBlast Bluetooth Speaker,Electronics,728,4.8,25,179,22,male
-2023-01-22,93,BEA004,SilkTouch Hair Straightener,Beauty,930,4.4,42,101,42,female
-2023-01-29,94,HOM002,Gourmet Chef Stainless Steel Cookware Set,Home & Kitchen,285,4.3,26,149,20,male
-2023-01-09,95,ELE004,SmartTech 4K Ultra HD TV,Electronics,778,4.2,18,164,20,male
-2023-01-13,96,CLO005,Urban Style Denim Jacket,Clothing,245,4.7,36,225,23,female
-2023-01-14,97,CLO003,Elegance Women's Evening Dress,Clothing,275,4.2,42,222,33,female
-2023-01-27,98,ELE001,SonicBlast Bluetooth Speaker,Electronics,453,3.9,25,97,20,male
-2023-01-31,99,ELE002,PowerPulse Wireless Earbuds,Electronics,811,4.6,24,167,30,male
-2023-01-15,100,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,145,4.3,34,152,18,female
+2023-01-28,1,ELE004,SmartTech 4K Ultra HD TV,Electronics,556,4.6,14,163,25,female
+2023-01-28,2,HOM002,Gourmet Chef Stainless Steel Cookware Set,Home & Kitchen,143,3.6,10,87,49,male
+2023-01-20,3,BEA003,GlowBeauty Vitamin C Serum,Beauty,219,4.6,42,117,19,male
+2023-01-18,4,ELE002,PowerPulse Wireless Earbuds,Electronics,395,4.9,49,70,30,male
+2023-01-10,5,BEA001,RadiantSkin Anti-Aging Cream,Beauty,924,4.7,22,173,50,female
+2023-01-23,6,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,685,3.6,26,223,42,male
+2023-01-09,7,CLO005,Urban Style Denim Jacket,Clothing,137,4.1,29,131,18,male
+2023-01-13,8,BEA001,RadiantSkin Anti-Aging Cream,Beauty,85,4.2,25,132,19,female
+2023-01-19,9,ELE004,SmartTech 4K Ultra HD TV,Electronics,983,4.3,29,179,30,female
+2023-01-25,10,BEA003,GlowBeauty Vitamin C Serum,Beauty,904,4.2,39,113,19,male
+2023-01-18,11,BEA002,LuxeLips Hydrating Lip Balm,Beauty,602,3.8,20,166,35,male
+2023-01-01,12,CLO004,Summer Breeze Floral Skirt,Clothing,760,4.5,21,219,34,male
+2023-01-18,13,ELE001,SonicBlast Bluetooth Speaker,Electronics,159,3.8,49,119,39,female
+2023-01-12,14,BEA004,SilkTouch Hair Straightener,Beauty,768,3.9,49,175,49,female
+2023-01-28,15,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,163,4.5,44,216,48,female
+2023-01-06,16,ELE002,PowerPulse Wireless Earbuds,Electronics,223,3.8,46,80,48,male
+2023-01-13,17,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,349,4.2,30,119,50,female
+2023-01-12,18,CLO002,Athleisure Performance Leggings,Clothing,541,3.5,17,156,49,male
+2023-01-23,19,CLO002,Athleisure Performance Leggings,Clothing,962,5.0,19,151,48,female
+2023-01-24,20,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,752,3.7,17,87,49,female
+2023-01-20,21,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,796,3.9,38,129,38,female
+2023-01-12,22,CLO003,Elegance Women's Evening Dress,Clothing,919,3.6,45,122,43,male
+2023-01-21,23,ELE004,SmartTech 4K Ultra HD TV,Electronics,815,4.4,41,152,32,male
+2023-01-02,24,ELE005,EcoCharge Solar Charger,Electronics,245,4.4,50,228,23,male
+2023-01-21,25,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,379,3.8,15,76,34,female
+2023-01-30,26,CLO001,Classic Comfort Cotton T-Shirt,Clothing,108,4.5,20,66,21,male
+2023-01-29,27,CLO004,Summer Breeze Floral Skirt,Clothing,926,4.7,40,109,38,female
+2023-01-31,28,CLO005,Urban Style Denim Jacket,Clothing,110,4.8,17,121,49,male
+2023-01-31,29,CLO004,Summer Breeze Floral Skirt,Clothing,979,4.6,42,233,22,male
+2023-01-23,30,ELE003,RapidCharge Portable Power Bank,Electronics,619,3.5,25,181,27,female
+2023-01-12,31,CLO002,Athleisure Performance Leggings,Clothing,240,4.5,47,70,49,female
+2023-01-30,32,BEA001,RadiantSkin Anti-Aging Cream,Beauty,386,3.8,12,167,27,female
+2023-01-09,33,CLO004,Summer Breeze Floral Skirt,Clothing,896,3.8,11,200,21,female
+2023-01-30,34,BEA002,LuxeLips Hydrating Lip Balm,Beauty,520,4.0,37,83,19,male
+2023-01-05,35,ELE004,SmartTech 4K Ultra HD TV,Electronics,302,4.0,16,207,40,male
+2023-01-12,36,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,485,4.5,38,157,50,male
+2023-01-01,37,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,496,4.5,50,178,23,female
+2023-01-26,38,ELE001,SonicBlast Bluetooth Speaker,Electronics,484,4.4,46,220,32,male
+2023-01-14,39,BEA004,SilkTouch Hair Straightener,Beauty,32,4.1,10,149,49,male
+2023-01-12,40,BEA003,GlowBeauty Vitamin C Serum,Beauty,542,3.8,49,112,27,male
+2023-01-31,41,ELE005,EcoCharge Solar Charger,Electronics,573,5.0,20,137,29,female
+2023-01-04,42,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,103,4.6,30,173,18,female
+2023-01-18,43,BEA004,SilkTouch Hair Straightener,Beauty,855,3.8,19,228,42,female
+2023-01-22,44,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,725,4.9,42,157,19,female
+2023-01-06,45,BEA001,RadiantSkin Anti-Aging Cream,Beauty,375,4.4,13,238,23,male
+2023-01-25,46,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,132,4.7,44,98,39,female
+2023-01-14,47,ELE004,SmartTech 4K Ultra HD TV,Electronics,796,4.1,14,66,42,female
+2023-01-30,48,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,642,4.5,44,94,19,male
+2023-01-16,49,BEA001,RadiantSkin Anti-Aging Cream,Beauty,21,4.0,16,223,48,female
+2023-01-16,50,CLO004,Summer Breeze Floral Skirt,Clothing,959,3.8,31,189,18,female
+2023-01-26,51,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,415,4.6,29,199,22,male
+2023-01-08,52,BEA004,SilkTouch Hair Straightener,Beauty,949,3.8,13,140,38,female
+2023-01-28,53,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,641,4.5,39,227,19,female
+2023-01-20,54,ELE002,PowerPulse Wireless Earbuds,Electronics,933,3.9,33,98,27,female
+2023-01-05,55,ELE004,SmartTech 4K Ultra HD TV,Electronics,392,4.8,40,127,39,female
+2023-01-03,56,HOM005,Deluxe Kitchen Mixer Pro,Home & Kitchen,119,4.7,36,88,49,female
+2023-01-02,57,ELE001,SonicBlast Bluetooth Speaker,Electronics,213,4.2,23,85,25,female
+2023-01-14,58,CLO001,Classic Comfort Cotton T-Shirt,Clothing,190,3.7,39,224,49,female
+2023-01-17,59,CLO002,Athleisure Performance Leggings,Clothing,907,4.1,37,226,32,female
+2023-01-15,60,ELE003,RapidCharge Portable Power Bank,Electronics,736,4.8,48,148,30,female
+2023-01-03,61,ELE004,SmartTech 4K Ultra HD TV,Electronics,566,4.8,30,185,34,female
+2023-01-14,62,ELE004,SmartTech 4K Ultra HD TV,Electronics,886,4.7,34,191,39,male
+2023-01-20,63,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,311,4.4,33,121,21,male
+2023-01-31,64,BEA001,RadiantSkin Anti-Aging Cream,Beauty,905,4.9,39,157,21,female
+2023-01-30,65,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,598,4.5,41,162,20,male
+2023-01-21,66,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,809,3.7,27,108,41,female
+2023-01-18,67,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,365,3.7,35,181,34,female
+2023-01-05,68,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,504,3.7,46,240,49,male
+2023-01-14,69,CLO005,Urban Style Denim Jacket,Clothing,507,4.2,14,194,30,male
+2023-01-02,70,CLO004,Summer Breeze Floral Skirt,Clothing,796,4.8,32,132,30,female
+2023-01-11,71,CLO003,Elegance Women's Evening Dress,Clothing,452,3.6,41,212,48,male
+2023-01-12,72,ELE005,EcoCharge Solar Charger,Electronics,812,3.9,20,107,39,male
+2023-01-11,73,BEA001,RadiantSkin Anti-Aging Cream,Beauty,566,4.6,40,68,23,male
+2023-01-13,74,CLO005,Urban Style Denim Jacket,Clothing,834,4.2,15,221,36,male
+2023-01-27,75,CLO002,Athleisure Performance Leggings,Clothing,234,3.8,13,98,23,female
+2023-01-21,76,CLO004,Summer Breeze Floral Skirt,Clothing,280,4.7,40,153,42,male
+2023-01-08,77,CLO002,Athleisure Performance Leggings,Clothing,641,3.7,43,231,49,female
+2023-01-19,78,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,411,4.2,35,89,38,female
+2023-01-14,79,HOM002,Gourmet Chef Stainless Steel Cookware Set,Home & Kitchen,726,4.9,40,214,33,male
+2023-01-01,80,BEA002,LuxeLips Hydrating Lip Balm,Beauty,105,4.7,44,82,36,male
+2023-01-20,81,BEA001,RadiantSkin Anti-Aging Cream,Beauty,426,4.2,41,149,34,male
+2023-01-13,82,ELE005,EcoCharge Solar Charger,Electronics,606,3.6,12,215,23,female
+2023-01-23,83,BEA001,RadiantSkin Anti-Aging Cream,Beauty,776,4.1,26,180,41,female
+2023-01-21,84,CLO001,Classic Comfort Cotton T-Shirt,Clothing,525,4.9,39,152,25,female
+2023-01-07,85,HOM004,Luxury Living Cotton Bath Towel Set,Home & Kitchen,304,3.5,19,162,48,female
+2023-01-31,86,ELE005,EcoCharge Solar Charger,Electronics,508,3.7,30,225,41,female
+2023-01-27,87,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,408,4.3,36,178,48,female
+2023-01-29,88,BEA003,GlowBeauty Vitamin C Serum,Beauty,353,4.8,11,136,43,male
+2023-01-14,89,BEA004,SilkTouch Hair Straightener,Beauty,488,3.6,28,103,32,female
+2023-01-26,90,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,133,4.0,39,78,43,male
+2023-01-27,91,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,610,4.1,41,108,50,male
+2023-01-18,92,HOM005,Deluxe Kitchen Mixer Pro,Home & Kitchen,717,4.7,24,83,49,male
+2023-01-09,93,ELE004,SmartTech 4K Ultra HD TV,Electronics,916,3.7,18,70,41,female
+2023-01-08,94,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,470,4.0,41,160,23,female
+2023-01-18,95,HOM003,Elegant Home Bamboo Storage Organizer,Home & Kitchen,964,3.7,41,77,44,female
+2023-01-23,96,BEA004,SilkTouch Hair Straightener,Beauty,284,3.9,22,192,32,female
+2023-01-09,97,BEA005,PureZen Aromatherapy Essential Oils Set,Beauty,412,4.0,38,156,30,female
+2023-01-27,98,BEA003,GlowBeauty Vitamin C Serum,Beauty,150,4.2,35,216,27,male
+2023-01-27,99,HOM001,Cozy Haven Memory Foam Mattress,Home & Kitchen,581,4.3,47,188,22,female
+2023-01-03,100,CLO001,Classic Comfort Cotton T-Shirt,Clothing,397,4.0,32,231,41,female
