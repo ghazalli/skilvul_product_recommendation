@@ -1,7 +1,21 @@
 ## SKLVL PRODUCT RECOMMENDATION
 
+## INFERENCE
+- #### WEB APP USAGE
+    ```bash
+    gradio app.py
+    ```
+- #### PUBLIC WEB APP
+    [SIMPLE WEB APP](https://mghazalli-simple-product-recommendation.hf.space "Web App")
+
 ## INSTALLATIONS
 - #### Install requirement library
+    ```bash
+    conda create -n skilvul_env python=3.11
+    ```
+    ```bash
+    conda activate skilvul_env
+    ```
     ```bash
     pip install -r requirements.txt
     ```
@@ -34,9 +48,9 @@
     ![Cosine Similarity](/assets/cosine_similarity_equation.jpg)
 
     Where:
-    - \( A \cdot B \) is the dot product of vectors A and B.
-    - \( \|A\| \) is the magnitude of vector A.
-    - \( \|B\| \) is the magnitude of vector B.
+    - **A ⋅ B** is the dot product of vectors A and B.
+    - **|A|** is the magnitude of vector A.
+    - **|B|** is the magnitude of vector B.
 
 - #### Steps to Implement Collaborative Filtering with Cosine Similarity
 
@@ -82,11 +96,3 @@
     ```
 
     A high cosine similarity (close to 1) indicates that User1 and User2 have similar preferences.
-
-## INFERENCE
-- #### WEB APP USAGE
-    ```bash
-    gradio app.py
-    ```
-- #### GRADIO WEB APP
-    [APP](https://mghazalli-simple-product-recommendation.hf.space "Web App")
