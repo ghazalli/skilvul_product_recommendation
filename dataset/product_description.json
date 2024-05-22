@@ -1,0 +1,30 @@
+{
+    "Electronics": {
+        "ELE001": "SonicBlast Bluetooth Speaker",
+        "ELE002": "PowerPulse Wireless Earbuds",
+        "ELE003": "RapidCharge Portable Power Bank",
+        "ELE004": "SmartTech 4K Ultra HD TV",
+        "ELE005": "EcoCharge Solar Charger"
+    },
+    "Clothing": {
+        "CLO001": "Classic Comfort Cotton T-Shirt",
+        "CLO002": "Athleisure Performance Leggings",
+        "CLO003": "Elegance Women's Evening Dress",
+        "CLO004": "Summer Breeze Floral Skirt",
+        "CLO005": "Urban Style Denim Jacket"
+    },
+    "Home & Kitchen": {
+        "HOM001": "Cozy Haven Memory Foam Mattress",
+        "HOM002": "Gourmet Chef Stainless Steel Cookware Set",
+        "HOM003": "Elegant Home Bamboo Storage Organizer",
+        "HOM004": "Luxury Living Cotton Bath Towel Set",
+        "HOM005": "Deluxe Kitchen Mixer Pro"
+    },
+    "Beauty": {
+        "BEA001": "RadiantSkin Anti-Aging Cream",
+        "BEA002": "LuxeLips Hydrating Lip Balm",
+        "BEA003": "GlowBeauty Vitamin C Serum",
+        "BEA004": "SilkTouch Hair Straightener",
+        "BEA005": "PureZen Aromatherapy Essential Oils Set"
+    }
+}
