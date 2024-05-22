@@ -81,6 +81,32 @@ def get_recommendations(customer_id, top_n=3):
     df = pd.read_csv("./dataset/dataset.csv")
     df["purchase_date"] = pd.to_datetime(df["purchase_date"])
 
+    customer_info_df = df[df.customer_id == customer_id][
+        [
+            "customer_id",
+            "age",
+            "gender",
+            "page_views",
+            "time_spent",
+            "purchase_date",
+        ]
+    ].reset_index(drop=True)
+    customer_info_df.rename(
+        columns={
+            "customer_id": "Customer ID",
+            "purchase_date": "Last purchase date",
+            "page_views": "Page view",
+            "time_spent": "Time spent",
+            "age": "Age",
+            "gender": "Gender",
+        },
+        inplace=True,
+    )
+    customer_info_transposed_df = customer_info_df.transpose()
+    customer_info_transposed_df = customer_info_transposed_df.astype(str)
+    customer_info_transposed_df = customer_info_transposed_df.reset_index()
+    customer_info_transposed_df.columns = ["key", "val"]
+
     # Compute Cosine Similarity
     cosine_sim_df = compute_cosine_similarity(df)
 
@@ -117,7 +143,7 @@ def get_recommendations(customer_id, top_n=3):
 
     result_df = pd.DataFrame(result_list)
 
-    return result_df
+    return customer_info_transposed_df, result_df
 
 
 inputs = [
@@ -131,7 +157,10 @@ inputs = [
     ),
 ]
 
-outputs = gr.Dataframe(label="Recommended Products", datatype=["str", "str", "str"])
+outputs = [
+    gr.Dataframe(label="Customer Info", datatype=["str", "str"]),
+    gr.Dataframe(label="Recommended Products", datatype=["str", "str", "str"]),
+]
 
 demo = gr.Interface(
     fn=get_recommendations,
