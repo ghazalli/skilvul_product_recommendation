@@ -31,8 +31,10 @@
 
     Cosine similarity is a metric used to measure how similar two items or users are. It is calculated by finding the cosine of the angle between two non-zero vectors in a multi-dimensional space. The cosine similarity between two vectors A and B is given by:
 
-    ![Cosine Similarity Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/15d11df2d48da4787ee86a4b8c14551fbf0bc96a)
-
+    <div style="background-color: white; padding: 10px; display: inline-block; border-radius: 8px;">
+    <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/15d11df2d48da4787ee86a4b8c14551fbf0bc96a" alt="Math Formula">
+    </div>
+    
     Where:
     - \( A \cdot B \) is the dot product of vectors A and B.
     - \( \|A\| \) is the magnitude of vector A.
@@ -83,4 +85,8 @@
 
     A high cosine similarity (close to 1) indicates that User1 and User2 have similar preferences.
 
-    By using these steps, we can create a recommendation system that provides personalized suggestions based on the similarity of users or items.
+## INFERENCE
+- #### WEB APP USAGE
+    ```bash
+    gradio app.py
+    ```

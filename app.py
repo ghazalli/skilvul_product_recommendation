@@ -105,7 +105,7 @@ def get_recommendations(customer_id, top_n=3):
     # Result list to store dictionaries
     result_list = []
 
-    for product_id in recommended_products:
+    for product_id in recommended_products[:top_n]:
         for category, products in product_description.items():
             if product_id in products:
                 result_dict = {
@@ -114,7 +114,6 @@ def get_recommendations(customer_id, top_n=3):
                     "product description": products[product_id],
                 }
                 result_list.append(result_dict)
-                break
 
     result_df = pd.DataFrame(result_list)
 
