@@ -88,3 +88,5 @@
     ```bash
     gradio app.py
     ```
+- #### GRADIO WEB APP
+    [APP](https://mghazalli-simple-product-recommendation.hf.space "Web App")
